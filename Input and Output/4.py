@@ -1,0 +1,16 @@
+# Question: Write a Python program for Input and Output problem 4.
+
+name1=input()
+score1=int(input())
+over1=int(input())
+name2=input()
+score2=int(input())
+over2=int(input())
+print("Match Details: \nTeam1:")
+print("Name: mano",name1)
+print("Score:",score1)
+print("Overs played:",over1)
+print("Team2:")
+print("Name: mano",name2)
+print("Score:",score2)
+print("Overs played:",over2)
